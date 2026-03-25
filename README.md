@@ -1,2 +1,2 @@
-# ecommerce-data-pipeline
+# customer-purchase-data-pipeline
 creating a project using pyspark and databricks
